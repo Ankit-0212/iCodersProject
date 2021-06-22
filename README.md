@@ -15,12 +15,12 @@ Features:-
 
 
 Languages and Resourses used:-
-  HTML\n
-  CSS\n
-  JAVASRIPT\n
-  CSS:Flexbox,animations etc.\n
-  Font Awesome icons\n
-  Animate on Scroll Library:- https://github.com/michalsnik/aos \n
-  iCoders Logo\n
+  HTML,
+  CSS,
+  JAVASRIPT,
+  CSS:Flexbox,animations etc.,
+  Font Awesome icons,
+  Animate on Scroll Library:- https://github.com/michalsnik/aos,
+  iCoders Logo,
   
   
